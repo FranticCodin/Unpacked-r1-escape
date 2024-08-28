@@ -1,0 +1,1 @@
+Hello! I'm putting a warniing here, the files in the img.xz of the original are the place the files in this repository come from. This download size for all files is 1.1 gb in size. I made this mainly to get it to work on a virtual machine. The restore files will be in the repository linked in the description of this repository. Thanks!
